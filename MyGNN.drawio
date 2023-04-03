@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T06:39:03.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.2" etag="ye7Dmq3lZmbVazvH-ZYc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T06:46:02.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="PUlTh3_obKEZgwHnwPja" version="21.1.2" type="github">
   <diagram name="第 1 页" id="gWeG35e6C86zQD0y6pNc">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XD2-V8QEW1LzV1P3F_-f-1" value="BPR Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="36" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XD2-V8QEW1LzV1P3F_-f-3" value="e&lt;sub&gt;u3(L)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="262" y="122" width="94" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
