@@ -1,5 +1,5 @@
 (array,int<10><20>,global,a)
-(var,int,global,b)
+(variable,int,global,b)
 (=,1,,b)
 (func_begin,int,2,f1)
 (parameter,int,f1,x)
