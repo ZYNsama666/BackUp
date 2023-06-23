@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:43:56.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Dqv83YBB0Vjqcu31Jzw7" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:44:15.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="zmrZw5bZYwqQAxJ2YZiZ" version="21.3.7" type="github">
   <diagram name="第 1 页" id="wKu1LNHtE1YL5XD0kWc-">
-    <mxGraphModel dx="1101" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,12 +50,12 @@
           <mxGeometry x="882" y="521" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="361" y="855" width="30" height="30" as="geometry" />
+          <mxGeometry x="356" y="844" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="376" y="762" as="sourcePoint" />
-            <mxPoint x="376" y="853.1923076923077" as="targetPoint" />
+            <mxPoint x="371" y="751" as="sourcePoint" />
+            <mxPoint x="371" y="842.1923076923077" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-26" value="生成出行建议" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="494" y="717" width="86" height="42" as="geometry" />
+          <mxGeometry x="489" y="706" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGNsGFfkHsSdonWRwcg4-28" target="WGNsGFfkHsSdonWRwcg4-9">
           <mxGeometry relative="1" as="geometry">
@@ -112,7 +112,7 @@
           <mxGeometry x="431" y="508" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-30" value="展示出行信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="333" y="717" width="86" height="42" as="geometry" />
+          <mxGeometry x="328" y="706" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGNsGFfkHsSdonWRwcg4-36" target="WGNsGFfkHsSdonWRwcg4-56">
           <mxGeometry relative="1" as="geometry" />
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-48" value="[查询请求]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="386" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGNsGFfkHsSdonWRwcg4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WGNsGFfkHsSdonWRwcg4-49" target="WGNsGFfkHsSdonWRwcg4-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-49" value="统计单车信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="682" y="706" width="87" height="41.5" as="geometry" />
@@ -172,10 +175,10 @@
           <mxGeometry x="977" y="473" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-62" value="[定位信息]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="558.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="782" y="569" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-63" value="[单车信息]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="542" width="60" height="30" as="geometry" />
+          <mxGeometry x="943" y="596" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-66" value="统计车辆" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="680" y="272" width="86" height="42" as="geometry" />
