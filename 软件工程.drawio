@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:11:30.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Q915I64cHwtaTn1PWZcu" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:16:52.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="Hd8aAoSFT0HVAVY4G4UG" version="21.3.7" type="github">
   <diagram name="第 1 页" id="xl8yDS8nu_2GemF-_EXw">
-    <mxGraphModel dx="1176" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1101" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="352" y="151" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WRAMGHy-zV3it7PqML5l-6" value="用户注册" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="151" width="48" height="16" as="geometry" />
+          <mxGeometry x="511" y="151" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="WRAMGHy-zV3it7PqML5l-7" value="统一身份认证" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="695" y="151" width="48" height="16" as="geometry" />
@@ -27,8 +27,58 @@
             <mxPoint x="376" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-13" target="WRAMGHy-zV3it7PqML5l-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WRAMGHy-zV3it7PqML5l-13" value="点击注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="268" width="110" height="50" as="geometry" />
+          <mxGeometry x="333" y="272" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-18" value="记录信息" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="496" y="272" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-21" value="[用户信息]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428" y="266" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-22" target="WRAMGHy-zV3it7PqML5l-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-22" value="验证身份" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="676" y="338" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-18" target="WRAMGHy-zV3it7PqML5l-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="608" y="371" as="sourcePoint" />
+            <mxPoint x="658" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-24" target="WRAMGHy-zV3it7PqML5l-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="421" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-27" value="" style="line;strokeWidth=3;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="699" y="569" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-31" value="[验证失败]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="639" y="459" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-34" target="WRAMGHy-zV3it7PqML5l-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-34" value="取消注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="496" y="417" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-36" value="反馈验证失败" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="333" y="416.5" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-39" value="[失败反馈]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="411" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
