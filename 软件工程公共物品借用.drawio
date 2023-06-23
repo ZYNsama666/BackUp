@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:46:07.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="tutP6VGNKg3cmcPUlva9" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:46:27.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="-aM9y2NTWILSxenLCvJx" version="21.3.7" type="github">
   <diagram name="第 1 页" id="cgNtaq2MYU6Qqh9RHb4e">
-    <mxGraphModel dx="936" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1101" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="JYyRSOWREe55q4rwpg1y-2" value="顾客" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="151" width="48" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="JYyRSOWREe55q4rwpg1y-3" value="宿舍公共物品使用登记" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+        <mxCell id="JYyRSOWREe55q4rwpg1y-3" value="管理员" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="151" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="JYyRSOWREe55q4rwpg1y-4" value="公共物品使用情况数据库" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
-          <mxGeometry x="895" y="148" width="48" height="16" as="geometry" />
+          <mxGeometry x="893" y="151" width="48" height="16" as="geometry" />
         </mxCell>
         <mxCell id="JYyRSOWREe55q4rwpg1y-5" value="宿舍公共物品" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="701" y="151" width="48" height="16" as="geometry" />
