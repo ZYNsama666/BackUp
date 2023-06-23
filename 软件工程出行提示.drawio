@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:44:15.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="zmrZw5bZYwqQAxJ2YZiZ" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:44:32.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="zSPQ1ciuMlyJTGl6A762" version="21.3.7" type="github">
   <diagram name="第 1 页" id="wKu1LNHtE1YL5XD0kWc-">
     <mxGraphModel dx="1440" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -56,12 +56,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="371" y="751" as="sourcePoint" />
             <mxPoint x="371" y="842.1923076923077" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WGNsGFfkHsSdonWRwcg4-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1274" y="904" as="sourcePoint" />
-            <mxPoint x="1274" y="101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -182,6 +176,30 @@
         </mxCell>
         <mxCell id="WGNsGFfkHsSdonWRwcg4-66" value="统计车辆" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="680" y="272" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WGNsGFfkHsSdonWRwcg4-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="462" y="917" as="sourcePoint" />
+            <mxPoint x="462" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGNsGFfkHsSdonWRwcg4-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="644" y="922" as="sourcePoint" />
+            <mxPoint x="644" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGNsGFfkHsSdonWRwcg4-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="836" y="919" as="sourcePoint" />
+            <mxPoint x="836" y="116" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGNsGFfkHsSdonWRwcg4-74" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1028.46" y="928.5" as="sourcePoint" />
+            <mxPoint x="1028.46" y="125.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
