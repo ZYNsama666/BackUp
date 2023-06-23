@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T09:03:44.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="B_qJHR5mvmGk9jsjJZzY" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:04:06.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="3JU80HxWG-5qtIODl1dd" version="21.3.7" type="github">
   <diagram name="第 1 页" id="Pv7ujq7x31SczTUlhnTl">
     <mxGraphModel dx="1101" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -123,17 +123,16 @@
         <mxCell id="i07Ub8UZMQ4JzRdAZHp2-34" value="填写联系内容" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="339" y="640" width="86" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i07Ub8UZMQ4JzRdAZHp2-36" target="i07Ub8UZMQ4JzRdAZHp2-38">
+        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i07Ub8UZMQ4JzRdAZHp2-36" target="i07Ub8UZMQ4JzRdAZHp2-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i07Ub8UZMQ4JzRdAZHp2-36" value="存入代办" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="863" y="640" width="86" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i07Ub8UZMQ4JzRdAZHp2-38" target="i07Ub8UZMQ4JzRdAZHp2-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-38" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="759" width="80" height="33" as="geometry" />
+        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="i07Ub8UZMQ4JzRdAZHp2-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692.5000000000005" y="775.4999999999998" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i07Ub8UZMQ4JzRdAZHp2-39" value="" style="line;strokeWidth=3;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="702.5" y="866" width="60" height="10" as="geometry" />
@@ -215,6 +214,12 @@
         </mxCell>
         <mxCell id="i07Ub8UZMQ4JzRdAZHp2-22" value="[查询失败]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="442" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-61" value="通知管理员" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1043" y="640" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="i07Ub8UZMQ4JzRdAZHp2-63" value="[信件]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
