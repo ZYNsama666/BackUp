@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:18:02.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="b8gK05iQYn9w4isfc741" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T08:18:58.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="9q3-021Cd2TbspClCY51" version="21.3.7" type="github">
   <diagram name="第 1 页" id="xl8yDS8nu_2GemF-_EXw">
-    <mxGraphModel dx="936" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="WRAMGHy-zV3it7PqML5l-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WRAMGHy-zV3it7PqML5l-34" target="WRAMGHy-zV3it7PqML5l-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WRAMGHy-zV3it7PqML5l-34" value="取消注册" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="WRAMGHy-zV3it7PqML5l-34" value="取消注册操作" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="496" y="417" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="WRAMGHy-zV3it7PqML5l-36" value="反馈验证失败" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -91,6 +91,20 @@
             <mxPoint x="828" y="447" as="sourcePoint" />
             <mxPoint x="922" y="513" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-43" value="完成注册操作" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="496" y="585" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WRAMGHy-zV3it7PqML5l-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="609.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-45" value="反馈注册成功" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="333" y="589" width="86" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WRAMGHy-zV3it7PqML5l-46" value="[成功反馈]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="582.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
