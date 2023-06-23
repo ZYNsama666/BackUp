@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T08:59:45.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="0pKh3YINsZ2rXjyyFgaq" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:00:10.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="CEDct7S3oG9DAE_kiyUP" version="21.3.7" type="github">
   <diagram name="第 1 页" id="agc6HrZidbOezbuOOdlW">
-    <mxGraphModel dx="780" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="w6Kzry9ONnSbnFIz9mlO-24" value="[查询失败]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="799.5" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w6Kzry9ONnSbnFIz9mlO-25" value="确认借用" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="w6Kzry9ONnSbnFIz9mlO-25" value="确认更换" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="502" y="907" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="w6Kzry9ONnSbnFIz9mlO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w6Kzry9ONnSbnFIz9mlO-27" target="w6Kzry9ONnSbnFIz9mlO-9">
@@ -96,7 +96,7 @@
         <mxCell id="w6Kzry9ONnSbnFIz9mlO-28" value="[错误信息]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="453" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w6Kzry9ONnSbnFIz9mlO-29" value="显示借用结果" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="w6Kzry9ONnSbnFIz9mlO-29" value="显示更换结果" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="1099.43" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="w6Kzry9ONnSbnFIz9mlO-30" value="" style="line;strokeWidth=3;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=13;" vertex="1" parent="1">
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6Kzry9ONnSbnFIz9mlO-59" value="借用驳回" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="w6Kzry9ONnSbnFIz9mlO-59" value="更换驳回" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="500" y="754.5" width="86" height="42" as="geometry" />
         </mxCell>
         <mxCell id="w6Kzry9ONnSbnFIz9mlO-60" value="修改申请情况" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -226,6 +226,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="732" y="874" as="sourcePoint" />
             <mxPoint x="1088" y="917" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w6Kzry9ONnSbnFIz9mlO-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w6Kzry9ONnSbnFIz9mlO-67" target="w6Kzry9ONnSbnFIz9mlO-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1088" y="959" as="sourcePoint" />
+            <mxPoint x="397.57575757575756" y="1021" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
