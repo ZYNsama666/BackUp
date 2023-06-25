@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T05:08:51.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" version="21.5.0" etag="affuvmAn8nbZAqlY8bg_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T05:09:42.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="UGo-TUXm4axUGD5hAr7L" version="21.5.0" type="github">
   <diagram name="第 1 页" id="tp9-DIR90uXELLOAhKr_">
-    <mxGraphModel>
+    <mxGraphModel dx="936" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2G89EVDPKEi4vwQxbu5T-1" value="CLA电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="114" width="591" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="2G89EVDPKEi4vwQxbu5T-2" value="8位BCLA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="669" y="318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G89EVDPKEi4vwQxbu5T-3" value="1120200827 张益宁 改进的ALU设计制图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="84" width="286" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
