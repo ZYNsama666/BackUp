@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T07:47:02.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="IMpga3E-71B65ykUTeev" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:47:30.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="n0YKJaU5PU-N6xUpECg_" version="21.5.1" type="github">
   <diagram name="第 1 页" id="yHlKmbMOGu388PkTEHp_">
-    <mxGraphModel dx="1359" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-23" value="dmem_we" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="258" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-24" value="MUX1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="574" width="129" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
