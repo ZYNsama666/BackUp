@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T07:47:30.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="n0YKJaU5PU-N6xUpECg_" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:48:37.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="hyDZ2SEycvNc5Zetjsl8" version="21.5.1" type="github">
   <diagram name="第 1 页" id="yHlKmbMOGu388PkTEHp_">
-    <mxGraphModel dx="793" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1119" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,15 @@
         <mxCell id="DETUEVZwvi3l4NpjXhvp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DETUEVZwvi3l4NpjXhvp-15" target="DETUEVZwvi3l4NpjXhvp-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.841;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DETUEVZwvi3l4NpjXhvp-15" target="DETUEVZwvi3l4NpjXhvp-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1169" y="344" />
+              <mxPoint x="1427" y="344" />
+              <mxPoint x="1427" y="551" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-15" value="ALU" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1078" y="392" width="181" height="42" as="geometry" />
         </mxCell>
@@ -89,6 +98,16 @@
         </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-24" value="MUX1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1284" y="574" width="129" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DETUEVZwvi3l4NpjXhvp-18" target="DETUEVZwvi3l4NpjXhvp-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1383" y="367" as="sourcePoint" />
+            <mxPoint x="1433" y="317" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1442" y="272" />
+              <mxPoint x="1442" y="563" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
