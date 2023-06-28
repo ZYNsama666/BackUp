@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T07:44:14.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="8hnzAN7ShZhKGr9fUNtP" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:45:35.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="ljNYVTAbz_7pHZpWqhhH" version="21.5.1" type="github">
   <diagram name="第 1 页" id="yHlKmbMOGu388PkTEHp_">
     <mxGraphModel dx="951" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-10" value="RegisterFile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="508" width="132" height="126" as="geometry" />
+          <mxGeometry x="1102" y="532" width="132" height="126" as="geometry" />
         </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-11" value="指令存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484" y="462" width="60" height="30" as="geometry" />
@@ -45,7 +45,22 @@
           <mxGeometry x="813.5" y="684" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DETUEVZwvi3l4NpjXhvp-14" value="寄存器堆" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1209.5" y="537" width="67" height="30" as="geometry" />
+          <mxGeometry x="1134.5" y="561" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-15" value="ALU" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="392" width="181" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DETUEVZwvi3l4NpjXhvp-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1146" y="528" as="sourcePoint" />
+            <mxPoint x="1135" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DETUEVZwvi3l4NpjXhvp-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.673;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DETUEVZwvi3l4NpjXhvp-10" target="DETUEVZwvi3l4NpjXhvp-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1145" y="542" as="sourcePoint" />
+            <mxPoint x="1145" y="445" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
