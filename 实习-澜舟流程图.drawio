@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T02:30:17.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bp8KKydJtREMD8wktsr1" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T02:31:44.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Gu7Hss_XMD1DYEH4XxWe" version="23.1.1" type="github">
   <diagram name="第 1 页" id="Ukrg3hYitKO0pHj5Uya2">
-    <mxGraphModel dx="1510" dy="952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="431" dy="272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="mXD1BfTS9CHWyj_YMzYI-59" value="反馈优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="751" y="358" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mXD1BfTS9CHWyj_YMzYI-62" value="知识产权" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="656" width="63" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
