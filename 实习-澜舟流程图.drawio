@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T02:26:44.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="q4OfpofXzp6p5Vketwnl" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T02:27:02.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="f5gBRBJI4mJnyf5deaau" version="23.1.1" type="github">
   <diagram name="第 1 页" id="Ukrg3hYitKO0pHj5Uya2">
-    <mxGraphModel dx="1066" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1812" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
             <mxPoint x="838" y="522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mXD1BfTS9CHWyj_YMzYI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mXD1BfTS9CHWyj_YMzYI-49" target="mXD1BfTS9CHWyj_YMzYI-18">
+        <mxCell id="mXD1BfTS9CHWyj_YMzYI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="mXD1BfTS9CHWyj_YMzYI-49" target="mXD1BfTS9CHWyj_YMzYI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mXD1BfTS9CHWyj_YMzYI-49" value="额外数据&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;（低质量）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,6 +116,12 @@
           <mxGeometry x="1271.9960869565216" y="492.0034782608696" as="geometry">
             <mxPoint x="-252" y="170" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mXD1BfTS9CHWyj_YMzYI-55" value="共同构建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="455" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mXD1BfTS9CHWyj_YMzYI-56" value="共同构建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="651" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
