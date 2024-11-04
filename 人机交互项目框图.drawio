@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="2365" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,12 @@
           <mxGeometry x="879" y="657" width="457" height="179" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gydbtc8NzU2zJaDU4UvF-1" target="gydbtc8NzU2zJaDU4UvF-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="985" y="879" />
+              <mxPoint x="1089" y="879" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;归一化定义&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="914" y="732" width="142" height="76" as="geometry" />
@@ -30,6 +35,14 @@
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gydbtc8NzU2zJaDU4UvF-2" target="gydbtc8NzU2zJaDU4UvF-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wPl2l_jvZGJgvFwYlYT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-2" target="gydbtc8NzU2zJaDU4UvF-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1196" y="879" />
+              <mxPoint x="1089" y="879" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;人格-价值对齐大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1076" y="733.5" width="239" height="73" as="geometry" />
@@ -85,10 +98,10 @@
         <mxCell id="gydbtc8NzU2zJaDU4UvF-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;实验验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2C66E;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="1463" y="946" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;什么是用户人格&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="864" y="944" width="242" height="60" as="geometry" />
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;什么是用户人格&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="968" y="949" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27.5;endSize=34.833333333333336;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27.5;endSize=34.833333333333336;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="714" y="877" as="sourcePoint" />
             <mxPoint x="927" y="877" as="targetPoint" />
@@ -110,10 +123,10 @@
           <mxGeometry x="1531" y="775" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-39" value="负责人：袁奕晨" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="916" width="115" height="30" as="geometry" />
+          <mxGeometry x="1095" y="916" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-40" value="针对目前的工作对于《个性化采取的操作》&#xa;提出一个对于《人格》归一化的定义" style="text;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1008" y="1019" width="271" height="58" as="geometry" />
+          <mxGeometry x="1044" y="1019" width="271" height="58" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-41" value="针对我们设计的模型架构，为了验证我们改进的有效性，完成实验设计，环境部署及实验的实施" style="text;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1591" y="941" width="128" height="36" as="geometry" />
