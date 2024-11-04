@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T01:39:55.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="DWQaF4BVhfBYtpfUDSOc" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T01:45:07.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="ABNEtSNqijgGPphTs2fh" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="1577" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,11 +11,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="203" y="581" width="554" height="613" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeColor=#31CE6B;fillColor=#ecfafe;" vertex="1" parent="1">
-          <mxGeometry x="818" y="588" width="1044" height="613" as="geometry" />
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#31CE6B;fillColor=#ecfafe;" vertex="1" parent="1">
+          <mxGeometry x="818" y="588" width="1065" height="613" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5C5F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="879" y="657" width="487" height="179" as="geometry" />
@@ -25,6 +25,9 @@
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;归一化定义&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="914" y="708" width="142" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#e8f2e8;strokeColor=#24B33C;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="632" width="474" height="542" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gydbtc8NzU2zJaDU4UvF-16">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;个性化对齐大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;人格-价值对齐大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1103" y="708" width="239" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-3" target="gydbtc8NzU2zJaDU4UvF-13">
@@ -54,16 +57,16 @@
         <mxCell id="gydbtc8NzU2zJaDU4UvF-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;综述&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5C5F3;" vertex="1" parent="1">
           <mxGeometry x="365" y="649" width="242" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;“个性化”定义&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDA96D;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;“人格”定义&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDA96D;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="426" y="1053" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-8" value="性格的分类准则和归一共性，如mbti、8种性格" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="404" y="1129" width="197" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-9" value="大模型个性化对齐操作，即大模型如何使用这些个性化信息" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-9" value="大模型个性化人格-价值对齐操作，即大模型如何使用这些个性化信息" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="223" y="1032" width="161" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;“个性化”对齐&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;“价值”对齐&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="231" y="949" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;多模态的个性化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2C66E;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -115,7 +118,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;什么是个性？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;什么是用户人格&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="913" y="946" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20.666666666666668;endSize=18.113333333333333;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
@@ -142,7 +145,7 @@
         <mxCell id="gydbtc8NzU2zJaDU4UvF-39" value="负责人：袁奕晨" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="916" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-40" value="针对目前的工作对于《个性化采取的操作》&#xa;提出一个对于《个性》归一化的定义" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-40" value="针对目前的工作对于《个性化采取的操作》&#xa;提出一个对于《人格》归一化的定义" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="995" y="1015" width="271" height="58" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-41" value="针对我们设计的模型架构，为了验证我们改进的有效性，完成实验设计，环境部署及实验的实施" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
@@ -171,6 +174,9 @@
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-56" value="负责人：&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;金梨银&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="604" y="919" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-58" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;大模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="1132" width="143" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
