@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T01:45:07.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="ABNEtSNqijgGPphTs2fh" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T01:47:18.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="q6cprJkNtmYRUL_RJc3n" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="2102" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-52" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#666666;fillColor=#ECFAFE;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="203" y="581" width="554" height="613" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#31CE6B;fillColor=#ecfafe;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=#31CE6B;fillColor=#ECFAFE;" vertex="1" parent="1">
           <mxGeometry x="818" y="588" width="1065" height="613" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5C5F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -24,7 +24,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;归一化定义&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="914" y="708" width="142" height="100" as="geometry" />
+          <mxGeometry x="914" y="732" width="142" height="76" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#e8f2e8;strokeColor=#24B33C;" vertex="1" parent="1">
           <mxGeometry x="1385" y="632" width="474" height="542" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;人格-价值对齐大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1103" y="708" width="239" height="100" as="geometry" />
+          <mxGeometry x="1103" y="735" width="239" height="73" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-3" target="gydbtc8NzU2zJaDU4UvF-13">
           <mxGeometry relative="1" as="geometry" />
@@ -90,13 +90,13 @@
         <mxCell id="gydbtc8NzU2zJaDU4UvF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-16" target="gydbtc8NzU2zJaDU4UvF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-16" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;模型复现&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-16" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 22px;&quot;&gt;模型复现&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="1463" y="684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-17" target="gydbtc8NzU2zJaDU4UvF-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDA96D;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;模型设计&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDA96D;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="1463" y="805" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-19" target="gydbtc8NzU2zJaDU4UvF-29">
@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实验验证&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2C66E;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;实验验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2C66E;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1463" y="946" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-21" target="gydbtc8NzU2zJaDU4UvF-29">
@@ -118,17 +118,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;什么是用户人格&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="913" y="946" width="144" height="60" as="geometry" />
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;什么是用户人格&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F36A5E;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="864" y="944" width="242" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20.666666666666668;endSize=18.113333333333333;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27.5;endSize=34.833333333333336;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="706" y="889" as="sourcePoint" />
-            <mxPoint x="919" y="889" as="targetPoint" />
+            <mxPoint x="714" y="877" as="sourcePoint" />
+            <mxPoint x="927" y="877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-28" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;模型与架构呈现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="665" width="180" height="30" as="geometry" />
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-28" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;模型与架构呈现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="673" width="222" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-29" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;未来展望&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1144" y="1230" width="222" height="113" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="1000" y="916" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-40" value="针对目前的工作对于《个性化采取的操作》&#xa;提出一个对于《人格》归一化的定义" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1015" width="271" height="58" as="geometry" />
+          <mxGeometry x="1008" y="1019" width="271" height="58" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-41" value="针对我们设计的模型架构，为了验证我们改进的有效性，完成实验设计，环境部署及实验的实施" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1593" y="946" width="255" height="36" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="510" y="769" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-45" value="负责人：张益宁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="665" width="115" height="30" as="geometry" />
+          <mxGeometry x="1197.5" y="622" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-46" value="张益宁：主要完成论文收集调研，论文池搭建，完成综述文本撰写，辅助袁奕晨完成形式化定义提出，辅助陈铭锐合作完成模型搭建，完成最终报告的撰写，参考文献等格式调整，完成本人工作部分的PPT撰写和最终汇报整合。&#xa; &#xa;陈荣鑫：主要侧重调研大模型个性化对齐操作，即大模型如何使用这些个性化信息，完成综述文本撰写，辅助完成架构设计，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;马杰琼：主要侧重调研性格的分类准则和归一共性，如mbti、8种性格等等，完成综述文本撰写，辅助完成形式化定义提出，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;金梨银：主要侧重调研多模态的信息，即关注个性化的输入和输出在多模态上的应用，完成综述文本撰写，辅助完成架构的设计，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;袁奕晨：主要完成形式化定义的提出和架构的理论设计，完成该部分的文本撰写，辅助朱子林完成架构的代码，提出该架构的进一步未来展望，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;陈铭锐：主要负责最终模型的设计和搭建，完成该部分的文本撰写，辅助朱子林完成架构的代码，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;朱子林：主要负责架构的实验设计，环境部署及实验的实施，完成该部分的文本撰写，收集实验结果并进行分析。完成本人工作部分的PPT和文稿撰写。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2011.9988888888888" y="708.0011111111108" width="550" height="324" as="geometry" />
@@ -175,8 +175,8 @@
         <mxCell id="gydbtc8NzU2zJaDU4UvF-56" value="负责人：&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;金梨银&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="604" y="919" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-58" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;大模型&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="1132" width="143" height="30" as="geometry" />
+        <mxCell id="gydbtc8NzU2zJaDU4UvF-58" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;模型一体化部署&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1523" y="1135" width="218" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
