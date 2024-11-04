@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T01:50:39.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="jHNF_qrDevPo-Pr8sjQg" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T01:50:57.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="P2PuISosWZezS_rV6gcl" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="1892" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,7 +18,7 @@
           <mxGeometry x="845" y="579" width="917" height="613" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A5C5F3;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="879" y="657" width="487" height="179" as="geometry" />
+          <mxGeometry x="879" y="657" width="457" height="179" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-1" target="gydbtc8NzU2zJaDU4UvF-21">
           <mxGeometry relative="1" as="geometry" />
@@ -27,7 +27,7 @@
           <mxGeometry x="914" y="732" width="142" height="76" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-57" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#e8f2e8;strokeColor=#24B33C;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="632" width="356" height="542" as="geometry" />
+          <mxGeometry x="1374" y="632" width="367" height="542" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-2" target="gydbtc8NzU2zJaDU4UvF-16">
           <mxGeometry relative="1" as="geometry" />
@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;人格-价值对齐大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1103" y="735" width="239" height="73" as="geometry" />
+          <mxGeometry x="1076" y="733.5" width="239" height="73" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gydbtc8NzU2zJaDU4UvF-3" target="gydbtc8NzU2zJaDU4UvF-13">
           <mxGeometry relative="1" as="geometry" />
@@ -168,7 +168,7 @@
           <mxGeometry x="589" y="919" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-58" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;模型一体化部署&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1469" y="1129" width="218" height="30" as="geometry" />
+          <mxGeometry x="1460" y="1126" width="218" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
