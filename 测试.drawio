@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T01:51:35.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="skY0u35EC7R8YgEXUn0O" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T01:51:47.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" etag="YoDGkCA-AO5U1rRtVcEM" version="24.4.0" type="github">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="2102" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2703" dy="1620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,9 +154,6 @@
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-45" value="负责人：张益宁" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1197.5" y="622" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gydbtc8NzU2zJaDU4UvF-46" value="张益宁：主要完成论文收集调研，论文池搭建，完成综述文本撰写，辅助袁奕晨完成形式化定义提出，辅助陈铭锐合作完成模型搭建，完成最终报告的撰写，参考文献等格式调整，完成本人工作部分的PPT撰写和最终汇报整合。&#xa; &#xa;陈荣鑫：主要侧重调研大模型个性化对齐操作，即大模型如何使用这些个性化信息，完成综述文本撰写，辅助完成架构设计，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;马杰琼：主要侧重调研性格的分类准则和归一共性，如mbti、8种性格等等，完成综述文本撰写，辅助完成形式化定义提出，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;金梨银：主要侧重调研多模态的信息，即关注个性化的输入和输出在多模态上的应用，完成综述文本撰写，辅助完成架构的设计，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;袁奕晨：主要完成形式化定义的提出和架构的理论设计，完成该部分的文本撰写，辅助朱子林完成架构的代码，提出该架构的进一步未来展望，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;陈铭锐：主要负责最终模型的设计和搭建，完成该部分的文本撰写，辅助朱子林完成架构的代码，完成本人工作部分的PPT和文稿撰写。&#xa; &#xa;朱子林：主要负责架构的实验设计，环境部署及实验的实施，完成该部分的文本撰写，收集实验结果并进行分析。完成本人工作部分的PPT和文稿撰写。" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2011.9988888888888" y="708.0011111111108" width="550" height="324" as="geometry" />
         </mxCell>
         <mxCell id="gydbtc8NzU2zJaDU4UvF-54" value="负责人：陈荣鑫" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="269" y="916" width="115" height="30" as="geometry" />
